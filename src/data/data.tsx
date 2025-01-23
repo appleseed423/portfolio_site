@@ -8,12 +8,11 @@ import {
   PhoneIcon,
 } from '@heroicons/react/24/outline';
 
+import GithubIcon from '../components/Icon/GithubIcon';
+import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import client1 from '../images/clients/1.png';
 import client2 from '../images/clients/2.jpg';
 import client3 from '../images/clients/3.jpg';
-
-import GithubIcon from '../components/Icon/GithubIcon';
-import LinkedInIcon from '../components/Icon/LinkedInIcon';
 import heroImage from '../images/header-background.webp';
 import porfolioImage1 from '../images/portfolio/1.png';
 import porfolioImage2 from '../images/portfolio/2.jpg';
