@@ -291,27 +291,27 @@ export const portfolioItems: PortfolioItem[] = [
     image: porfolioImage16,
   },
   {
-    title: 'Locoslouis Ville',
-    description: 'PHP, MySQL, jQuery, Nginx, ...',
-    url: 'https://www.locoslouisville.com/',
-    image: porfolioImage17,
-  },
-  {
     title: 'Casino',
     description: 'Next.js, Payment processors, Tailwind CSS, Web3, ...',
     url: 'https://casino-react.netlify.app/',
-    image: porfolioImage18,
+    image: porfolioImage17,
   },
   {
     title: 'Ecommerce 1101',
     description: 'React, PWA, Tailwind CSS, Django, Netlify, ...',
     url: 'https://ecommerce1101.netlify.app/',
-    image: porfolioImage19,
+    image: porfolioImage18,
   },
   {
     title: 'Sub Culture',
     description: 'Three.js, Vercel, ASP.NET, Python, ...',
     url: 'https://subculture.makery.co.jp/',
+    image: porfolioImage19,
+  },
+  {
+    title: 'Locoslouis Ville',
+    description: 'PHP, MySQL, jQuery, Nginx, ...',
+    url: 'https://www.locoslouisville.com/',
     image: porfolioImage20,
   },
 ];
