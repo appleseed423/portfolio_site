@@ -442,7 +442,7 @@ export const contact: ContactSection = {
     {
       type: ContactType.Github,
       text: 'manuelrivera0915',
-      href: 'https://github.com/manuelrivera0915',
+      href: 'https://github.com/appleseed423',
     },
   ],
 };
@@ -451,7 +451,7 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/manuelrivera0915'},
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/appleseed423'},
   {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/in/manuelrivera0915'},
   {label: 'Mail', Icon: EnvelopeIcon, href: 'mailto:manuelrivera0915.dev@gmail.com'},
   {label: 'Phone', Icon: PhoneIcon, href: 'tel:+573017714373'},
